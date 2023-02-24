@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvaibhav19&label=Profile%20views&color=0e75b6&style=flat" alt="yashvaibhav19" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **React, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashvaibhav19/](https://github.com/yashvaibhav19/)
 
